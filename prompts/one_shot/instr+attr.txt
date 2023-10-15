@@ -1,0 +1,9 @@
+Instruction: read the given information and answer the corresponding question.
+
+[[example_passage_1]]
+Q: [[example_question_1]] based on the given text?
+A: [[example_answer_1]]
+
+[[passage]]
+Q: [[question]] based on the given text?
+A: 

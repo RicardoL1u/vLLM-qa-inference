@@ -1,0 +1,33 @@
+**Read the passage and answer the question.** 
+**You may do some analysis on the passage and question before answering.** 
+**But you should directly give out in the answer in the end and in the form of {{answer}}.**
+
+<human>:
+Passage: [[example_passage_1]]
+Question: [[example_question_1]]
+
+<bot>: [[example_answer_1]]
+
+<human>:
+Passage: [[example_passage_2]]
+Question: [[example_question_2]]
+
+<bot>: [[example_answer_2]]
+
+<human>:
+Passage: [[example_passage_3]]
+Question: [[example_question_3]]
+
+<bot>: [[example_answer_3]]
+
+<human>:
+Passage: [[example_passage_4]]
+Question: [[example_question_4]]
+
+<bot>: [[example_answer_4]]
+
+<human>:
+Passage: [[passage]]
+Question: [[question]]
+
+<bot>: 

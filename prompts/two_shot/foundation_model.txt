@@ -1,0 +1,16 @@
+Instruction: read the passage and answer the question. You may do some analysis on the passage and question before answering. But you should directly give out in the answer in the end and in the form of {{answer}}.
+
+Example 1:
+Passage: [[example_passage_1]]
+Question: [[example_question_1]]
+Answer: [[example_answer_1]]
+
+Example 2:
+Passage: [[example_passage_2]]
+Question: [[example_question_2]]
+Answer: [[example_answer_2]]
+
+Example 3:
+Passage: [[passage]]
+Question: [[question]]
+Answer: 

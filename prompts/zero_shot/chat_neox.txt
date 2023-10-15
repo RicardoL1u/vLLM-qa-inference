@@ -1,0 +1,9 @@
+**Read the passage and answer the question.** 
+**You may do some analysis on the passage and question before answering.** 
+**But you should directly give out in the answer in the end and in the form of {{answer}}.**
+
+<human>:
+Passage: [[passage]]
+Question: [[question]]
+
+<bot>: 

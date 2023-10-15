@@ -1,0 +1,9 @@
+Instruction: read the given information and answer the corresponding question.
+
+Bob said "[[example_passage_1]]"
+Q: [[example_question_1]] in Bob's opinion?
+A: [[example_answer_1]]
+
+Bob said "[[passage]]"
+Q: [[question]] in Bob's opinion?
+A: 

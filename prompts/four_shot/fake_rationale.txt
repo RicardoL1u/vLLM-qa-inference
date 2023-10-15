@@ -1,0 +1,31 @@
+Instruction: You would be given one passage, one question and corresponding answer. Your task is based on the passage, question and the answer, write one rationale for the answer. The rationale should be faithful to the passage and question. The answer in the rationale should be in the form of {{answer}}.
+
+Example 1:
+Passage: [[example_passage_1]]
+Question: [[example_question_1]]
+Answer: [[example_answer_1]]
+Rationale: [[example_rationale_1]]
+
+Example 2:
+Passage: [[example_passage_2]]
+Question: [[example_question_2]]
+Answer: [[example_answer_2]]
+Rationale: [[example_rationale_2]]
+
+Example 3:
+Passage: [[example_passage_3]]
+Question: [[example_question_3]]
+Answer: [[example_answer_3]]
+Rationale: [[example_rationale_3]]
+
+Example 4:
+Passage: [[example_passage_4]]
+Question: [[example_question_4]]
+Answer: [[example_answer_4]]
+Rationale: [[example_rationale_4]]
+
+Example 5:
+Passage: [[passage]]
+Question: [[question]]
+Answer: [[answer]]
+Rationale:

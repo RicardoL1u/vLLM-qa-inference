@@ -1,0 +1,39 @@
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Instruction: Read the passage and answer the question. You may do some analysis on the passage and question before answering. But you should directly give out in the answer in the end and in the form of {{answer}}.
+
+### Input 1:
+Passage: [[example_passage_1]]
+Question: [[example_question_1]]
+
+### Response 1:
+Answer: [[example_answer_1]]
+
+### Input 2:
+Passage: [[example_passage_2]]
+Question: [[example_question_2]]
+
+### Response 2:
+Answer: [[example_answer_2]]
+
+### Input 3:
+Passage: [[example_passage_3]]
+Question: [[example_question_3]]
+
+### Response 3:
+Answer: [[example_answer_3]]
+
+### Input 4:
+Passage: [[example_passage_4]]
+Question: [[example_question_4]]
+
+### Response 4:
+Answer: [[example_answer_4]]
+
+### Input 5:
+Passage: [[passage]]
+Question: [[question]]
+
+### Response 5:
+Answer: 

@@ -1,0 +1,13 @@
+<|user|>
+Read the passage and answer the question. You may do some analysis on the passage and question before answering. But you should directly give out in the answer in the end and in the form of {{answer}}
+<|assistant|>
+OK, I got it.
+<|user|>
+Passage: [[example_passage_1]]
+Question: [[example_question_1]]
+<|assistant|>
+Answer: [[example_answer_1]]
+<|user|>
+Passage: [[passage]]
+Question: [[question]]
+<|assistant|>
